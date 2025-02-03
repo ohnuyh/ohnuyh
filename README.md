@@ -1,4 +1,4 @@
-# 정현호짱짱맨이다😎
+# 정현호짱짱맨😎
 
 <!--
 **ohnuyh/ohnuyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
